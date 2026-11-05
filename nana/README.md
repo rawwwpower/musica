@@ -19,10 +19,10 @@ este repo) o en la ruta de la variable `DEADWAX`. No editar `nana.html` a mano.
 | `nana.html` | El resultado, lo que se publica. Un solo archivo (~1,1 MB), sin backend. |
 
 ```
-python3 nana/build.py      # después de cada cambio en coleccion.db
+python3 nana/build.py      # solo si Ana pide actualizar nana
 ```
 
-Después, republicar `nana.html` con la tool Artifact (mismo archivo en la misma sesión, o pasando el `url` de arriba).
+Después, republicar `nana.html` en el artifact de arriba, solo si Ana lo pide.
 
 ## Qué hace hoy (v0.1)
 
