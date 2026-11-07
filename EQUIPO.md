@@ -89,6 +89,18 @@ pitch de ±16 % y luces azules (la M3D no: es ±8 %). Están buenas pero no hace
   es impedimento). Preguntar: foto de la etiqueta de abajo (voltaje y serial), si
   incluye cápsula, service hecho, estado del pitch y del brazo.
 
+### La SL-1700 MK2 en detalle (investigado 07/11/2026)
+
+Fuentes: foros (Vinyl Engine, Audiokarma, Steve Hoffman), hifi-wiki y avisos. No hay catálogo de Technics que lo confirme todo.
+
+- **Por dentro es casi una SL-1200 MK2:** según varios dueños, comparte el motor, el plato, la goma, el brazo (salvo lo automático), la base del brazo y la lucecita de púa.
+- **Chasis suspendido** (sobre resortes), que la 1200 MK2 no tiene. Aísla mejor para escuchar; al tocar el plato con la mano se siente más blanda. La base es de aluminio fundido.
+- **Motorcito aparte para el brazo**, con correa e independiente del motor del plato: lo levanta y lo devuelve al final. Tiene un control para **cancelar la vuelta automática** (lo cita un dueño), con lo que el brazo queda manual.
+- Altura del brazo regulable y amortiguación al bajar la púa (mejoras sobre la 1700 original).
+- Peso: ~10 kg. Wow & flutter de 0,025 % WRMS. Masa efectiva del brazo: 16 g o 22 g según la fuente (depende de si cuentan el headshell); con la Pearl anda bien en los dos casos.
+- **Pitch:** ±6 % según hifi-wiki, sin confirmar. Falta ver si es deslizable o con perillas (pedirle foto a Ana).
+- **Falla típica:** que el brazo no vuelva o el Stop no responda. Suelen ser dos chips CMOS de la placa lógica o la correa del motorcito del brazo. Tiene arreglo.
+
 ### ¿Tienen que ser iguales? (pregunta de Ana, 02/11/2026)
 
 No es obligatorio. Ana quiere mezclar con Seba o un amigo, cada uno con su bandeja, y eso se puede. Lo que tiene que
