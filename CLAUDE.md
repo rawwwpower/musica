@@ -33,7 +33,7 @@ parlantes), técnica de mezcla y de sampleo, y cómo usar cada instrumento.
 ## Relación con deadwax
 
 - Lo que es de **discos** va a deadwax: un disco que encontró, si conviene un prensado, la colección.
-- La bandeja de escucha (SL-D3) y su cápsula figuran en `EQUIPO.md`. deadwax las menciona solo para opinar cómo va a
+- La bandeja de escucha (SL-1700 MK2 con Sumiko Pearl desde el 07/11/2026) y su cápsula figuran en `EQUIPO.md`. deadwax las menciona solo para opinar cómo va a
   sonar un prensado.
 - `nana/` lee la colección del repo deadwax (ver `nana/README.md`).
 
