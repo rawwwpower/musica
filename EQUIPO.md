@@ -171,4 +171,4 @@ para pinchar.
 
 ## Decisiones / compras
 
-- **07/11/2026:** Ana compró una Technics SL-1700 MK2 en muy buen estado (ver "Lo que tiene hoy"). Es semiautomática, así que no cuenta como una de las dos 1200/1210 del plan de mezcla.
+- **07/11/2026:** Ana compró una Technics SL-1700 MK2 en muy buen estado (ver "Lo que tiene hoy"). La idea de Ana: usarla en casa y **adaptarla para tocar**. Plan de adaptación: usar el brazo en manual (la vuelta automática se dispara en el surco final; preguntarle al restaurador si se puede desactivar y si el stop levanta el brazo), slipmat de fieltro, cápsula DJ en un headshell aparte (reajustar contrapeso y antiskating al cambiar) y probar el torque frenando el plato con la mano. Regla: **"manual, fieltro, headshell"**.
