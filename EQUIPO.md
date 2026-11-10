@@ -17,7 +17,8 @@ K.O. queda para casa, no para tocar en vivo.
 restaurador lo revisa, porque no tiene garantía); auriculares **Beyerdynamic DT 770 Pro**; cápsulas **Ortofon Concorde
 MkII Club** (a confirmar el modelo); slipmats; par de **SL-1200 hechas en Japón** (MK5 o MK3D). Orden: mixer y
 auriculares → primera 1200 con Concorde → segunda 1200. Abierto: mensaje a Pacson (precio, negra o roja, service,
-prueba), foto de la chapa de abajo de la 1700 (voltaje y selector).
+prueba), foto de la chapa de abajo de la 1700 (voltaje y selector). Ya se le explicó: EQ por canal y pase de graves
+("un solo bajo a la vez"), booth (parlante de cabina) y rec (grabar la mezcla; a la Mac va con una interfaz de audio USB).
 
 ## Objetivo
 
@@ -214,7 +215,7 @@ Orbit.2 LE (~US$ 930), Condesa Carmen V (~US$ 1.620), E&S DJR-400 (~US$ 2.000, h
 Isonoe, Rane MP2015 (~US$ 3.200 usado). **De palancas para empezar:** Pioneer DJM-250MK2 (~ARS 1.000.000 en Frávega,
 2026; €449 en Alemania), Allen & Heath Xone:23, Numark M2.
 
-**Ficha del PM-3AL (pasada por Ana, 10/11/2026):**
+**Ficha oficial del PM-3AL (la pasó el vendedor de Pacson a Ana, 10/11/2026; Ana lo conoce y puede probarlo en persona):**
 - Canales 1 y 2: entrada phono (47 kΩ, 5 mV) y de línea (100 kΩ, 450 mV), ganancia ±50 %, tonos de 3 bandas
   (graves +14/−26 dB, medios +14/−14 dB, agudos +14/−26 dB), envío y retorno de efectos, botón PFL (cue).
 - Canal 3: línea **mono** (47 kΩ) y micrófono con low cut.
