@@ -9,11 +9,11 @@ propio archivo en `instrumentos/`.
 
 ## Retomar acá (10/11/2026)
 
-Ana **sumó una Technics SL-1700 MK2** (directa, se usa automática o manual). Se le explicó qué hace cada equipo
-(tabla "Para qué sirve cada equipo", abajo) y que la Sumiko Pearl queda para escuchar. Abierto: si la SL-D3 sigue en
-casa, en qué bandeja está montada la Pearl, y una foto de la 1700 (pitch y headshell). Lo próximo que quiere: un
-**mixer de 2 canales** y una **cápsula para tocar**. Si la SL-D3 se fue, actualizar también la mención en deadwax
-(`CLAUDE.md` de ese repo).
+Ana **sumó una Technics SL-1700 MK2** (directa, automática o manual) y ya le montó la **Sumiko Pearl**, ajustada. La
+**SL-D3 está a la venta** (queda ~1 mes) para ir hacia las **SL-1200**. Decidido: cápsula para la 1200 = **Ortofon
+Concorde**. Sus AKG MKII son **semiabiertos**; se le recomendaron auriculares cerrados (abajo). Lo próximo: elegir el
+**mixer de 2 canales** y los auriculares. Abierto: foto de la 1700 (pitch y headshell). Cuando se venda la SL-D3,
+sacarla de la tabla y de `CLAUDE.md`.
 
 ## Objetivo
 
@@ -30,12 +30,12 @@ potencia que la del equipo de casa.
 | Equipo | Estado | Notas |
 |---|---|---|
 | Technics **SL-1700 MK2** | Nueva (nov. 2026) | Directa, con cuarzo. Se usa **automática o manual**, como pidió Ana. Brazo en S con headshell desmontable (a confirmar con foto, igual que el rango del pitch). Con un headshell por cápsula se cambia de "escuchar" a "tocar" en segundos. |
-| Technics **SL-D3** (1978–80) | Restaurada a nuevo | Directa, B-FG servo (sin cuarzo), **totalmente automática**, pitch ±10 % con estroboscopio, 33/45, plato de aluminio de 312 mm. Brazo estático de 230 mm con fuerza de apoyo regulable de 0 a 2,5 g y antiskating. Wow & flutter de 0,03 % WRMS y rumble de −75 dB. Es para escuchar, no para mezclar (ver abajo). |
-| Cápsula **Sumiko Pearl** (MM, hecha en Japón) | Montada en la SL-D3 | Púa elíptica de 0,3×0,7 mil y cantiléver de aluminio. Salida de 4 mV, carga de 47 kΩ y 100–200 pF. Compliance de 12 cu y peso de 6 g. **Fuerza de apoyo: 2,0 g** (rango 1,5–2,0), con el antiskating en el mismo valor. Repuesto: aguja RS Pearl. Con el brazo de la SL-D3 la resonancia da ~10–11 Hz (estimado), que está en el rango ideal. |
-| Amplificador **Lenco A600** (1978) | Restaurado | Integrado de fines de los 70, hecho en Corea por un fabricante OEM y vendido con la marca suiza (según hifi-wiki). 2×60 W en 8 Ω y 2×120 W en 4 Ω. Ecualizador gráfico de 5 bandas (40 Hz, 250 Hz, 1 kHz, 5 kHz y 15 kHz, ±10 dB), vúmetros, loudness, mono/stereo y salidas de bafles A/B. Entradas: PHONO 1 y 2, TUNER, AUX 1 y 2, TAPE 1 y 2 (con monitor y dubbing). La SL-D3 va en PHONO. Tiene **REC out de TAPE 2 en el frente** (confirmado con foto, 26/10/2026). |
+| Technics **SL-D3** (1978–80) | Restaurada a nuevo | Directa, B-FG servo (sin cuarzo), **totalmente automática**, pitch ±10 % con estroboscopio, 33/45, plato de aluminio de 312 mm. Brazo estático de 230 mm con fuerza de apoyo regulable de 0 a 2,5 g y antiskating. Wow & flutter de 0,03 % WRMS y rumble de −75 dB. Es para escuchar, no para mezclar (ver abajo). **A la venta** (nov. 2026), para ir hacia las 1200. |
+| Cápsula **Sumiko Pearl** (MM, hecha en Japón) | Montada en la **SL-1700 MK2**, ajustada (nov. 2026) | Púa elíptica de 0,3×0,7 mil y cantiléver de aluminio. Salida de 4 mV, carga de 47 kΩ y 100–200 pF. Compliance de 12 cu y peso de 6 g. **Fuerza de apoyo: 2,0 g** (rango 1,5–2,0), con el antiskating en el mismo valor. Repuesto: aguja RS Pearl. Con el brazo de la SL-D3 la resonancia daba ~10–11 Hz (estimado). Para mezclar suave sirve; para scratch y backcue fuerte, la cápsula DJ. |
+| Amplificador **Lenco A600** (1978) | Restaurado | Integrado de fines de los 70, hecho en Corea por un fabricante OEM y vendido con la marca suiza (según hifi-wiki). 2×60 W en 8 Ω y 2×120 W en 4 Ω. Ecualizador gráfico de 5 bandas (40 Hz, 250 Hz, 1 kHz, 5 kHz y 15 kHz, ±10 dB), vúmetros, loudness, mono/stereo y salidas de bafles A/B. Entradas: PHONO 1 y 2, TUNER, AUX 1 y 2, TAPE 1 y 2 (con monitor y dubbing). La bandeja va en PHONO. Tiene **REC out de TAPE 2 en el frente** (confirmado con foto, 26/10/2026). |
 | Bafles **Technics** vintage | Restaurados | Conectados al Lenco. Falta confirmar el modelo (chapa de atrás). |
 | TV **LG OLED** + DAC | Funciona | El audio de la TV va: salida óptica (Toslink) → DAC (a RCA, alimentado por USB) → **AUX** del Lenco. Nunca a PHONO. |
-| Auriculares **AKG MKII** | Funcionan | Falta confirmar el modelo exacto. |
+| Auriculares **AKG MKII** | Funcionan | **Semiabiertos** (confirmado por Ana): sirven para escuchar en casa; para pinchar conviene unos cerrados. |
 | **Teenage Engineering EP-133 K.O. II** (Champ Edition, 64 MB) | Funciona | Sampler. **OS 2.5.1** (actualizado desde la 1.2.3 el 21/10/2026): ya tiene audio por USB. Todo lo del K.O. está en [`instrumentos/ko-ii.md`](instrumentos/ko-ii.md). |
 | Mac M1 + Mac i7 2015 | Funcionan | La i7 se puede dedicar entera a esto. |
 | Restaurador de confianza | — | "Excelente" según Ana. Hace que convenga comprar usado. |
@@ -162,13 +162,13 @@ sonidos y entra al mixer como una bandeja más.
 
 | Equipo | Qué hace | Analogía | ¿Lo tiene? |
 |---|---|---|---|
-| Bandeja + cápsula | Lee el surco | La aguja "lee" el disco | Sí: SL-1700 MK2 (y SL-D3) con Sumiko Pearl |
+| Bandeja + cápsula | Lee el surco | La aguja "lee" el disco | Sí: SL-1700 MK2 con Sumiko Pearl |
 | Pre de phono | Sube la señal chiquita de la cápsula | Un megáfono para la aguja | Sí, adentro del Lenco (PHONO) y adentro de todo mixer DJ |
 | **Mixer DJ** (mezcladora) | Junta 2 o más fuentes, pasa de una a otra (crossfader) y deja escuchar la próxima por auriculares (cue) | La mesa donde se encuentran dos discos | No: es lo próximo |
 | Sampler (K.O. II) | Graba pedacitos y los toca en loop | Una caja de recortes de discos | Sí |
 | Amplificador (Lenco A600) | Le da potencia a la señal para mover los bafles | El motor | Sí |
 | Bafles | Convierten la señal en sonido | La boca | Sí (Technics) |
-| Auriculares cerrados | Escuchar el próximo disco sin que suene en la sala | Espiar el disco que viene | AKG MKII (ver si son cerrados) |
+| Auriculares cerrados | Escuchar el próximo disco sin que suene en la sala | Espiar el disco que viene | No: los AKG son semiabiertos |
 | Cápsula DJ | Aguja redonda (esférica), robusta, para tocar el disco con la mano | Una púa "todo terreno" | No |
 | Slipmat | Deja patinar el disco sobre el plato | Hielo bajo el disco | No |
 | 2.ª bandeja manual | Para mezclar disco con disco | La compañera de la 1700 | No (más adelante) |
@@ -176,7 +176,7 @@ sonidos y entra al mixer como una bandeja más.
 **Cómo se conecta con un mixer:** bandeja → entrada PHONO del mixer; K.O. → entrada LINE del mixer; salida MASTER del
 mixer → **AUX** del Lenco. La bandeja deja de ir al PHONO del Lenco.
 
-**Cápsulas:** la Sumiko Pearl queda para **escuchar** (elíptica, fina, cantiléver delicado). Para **tocar**, una
+**Cápsulas:** la Sumiko Pearl es ideal para **escuchar** y sirve para mezclar suave (Ana lo confirmó con alguien que sabe); para scratch y backcue, no. Para **tocar**, una
 cápsula DJ esférica en su propio headshell. Ejemplos: Ortofon Concorde MkII (Club o DJ), Ortofon OM/Pro S en headshell,
 Audio-Technica AT-XP3 o AT-XP5, Shure M44-7 usada.
 
@@ -186,9 +186,11 @@ Usado vintage: Technics SH-DJ1200, Vestax PMC. Requisito: **dos entradas PHONO**
 ### El resto del set (pendiente de definir)
 
 - Mixer de 2 canales.
-- Cápsulas DJ ×2 (ej. Ortofon Concorde MkII / serie DJ).
+- Cápsulas DJ ×2: **Ortofon Concorde** (decisión de Ana, 10/11/2026).
 - Slipmats.
-- Auriculares cerrados (ver si alcanzan los AKG que ya tiene).
+- Auriculares cerrados (los AKG son semiabiertos). Recomendados (10/11/2026): **Sennheiser HD 25** primero (el
+  clásico de cabina: aíslan mucho, livianos, todo repuesto por separado); alternativas: Audio-Technica ATH-M50x (más
+  cómodos para escuchar en casa también), Pioneer HDJ-X5 o Sony MDR-7506 (más baratos).
 
 
 ## Catálogo para pinchar
