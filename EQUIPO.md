@@ -199,7 +199,7 @@ oficial. Modelos vistos:
 
 | Modelo | Qué es | Datos |
 |---|---|---|
-| **PM-3AL** | Rotary de 3 canales con isolator | 3 canales phono/línea/mic, EQ por canal, ganancia en canales 1 y 2, envío y retorno de efectos, **cue con perilla y botón por canal**, isolator "circuito Japan" al master, master RCA y XLR, salida rec y booth, mic con low cut. Maderas de eucalipto, 28,5 × 34,5 × 10 cm, 4 kg (DJW Magazine). Ediciones negra y roja ("limited red"). Vúmetros de aguja o LED. Sin precio publicado. |
+| **PM-3AL** | Rotary de 3 canales con isolator | Ver ficha completa abajo. Ediciones negra y roja ("limited red"), vúmetros de aguja o LED. **Sin garantía.** Sin precio publicado. |
 | **PM-2AL** | Rotary de 2 canales | 2 entradas phono, 4 de línea con A/B, vúmetros de aguja o LED. Avisos en ML de ARS 100.000 a 795.000 según la fecha; uno de Marketplace con nuevos a ARS 690.000. |
 | **Iso3dj** | Isolator suelto | Avisos en ML desde ARS 49.500 (usado) hasta ~ARS 500.000. |
 
@@ -210,9 +210,22 @@ Orbit.2 LE (~US$ 930), Condesa Carmen V (~US$ 1.620), E&S DJR-400 (~US$ 2.000, h
 Isonoe, Rane MP2015 (~US$ 3.200 usado). **De palancas para empezar:** Pioneer DJM-250MK2 (~ARS 1.000.000 en Frávega,
 2026; €449 en Alemania), Allen & Heath Xone:23, Numark M2.
 
-**Pendiente de preguntar a Pacson:** precio de cada edición; si los 3 canales del PM-3AL aceptan bandeja (phono);
-diferencia entre la negra y la roja; garantía y service; si se puede probar en persona. Para conectarlo: MASTER RCA →
-AUX del Lenco.
+**Ficha del PM-3AL (pasada por Ana, 10/11/2026):**
+- Canales 1 y 2: entrada phono (47 kΩ, 5 mV) y de línea (100 kΩ, 450 mV), ganancia ±50 %, tonos de 3 bandas
+  (graves +14/−26 dB, medios +14/−14 dB, agudos +14/−26 dB), envío y retorno de efectos, botón PFL (cue).
+- Canal 3: línea **mono** (47 kΩ) y micrófono con low cut.
+- Isolator de 3 bandas al master: +9/−45 dB cada una (corte casi total).
+- Auriculares: perilla Cue/Mixing, salida de 1 W por canal. Vúmetro PFL, master L y R.
+- Salidas: master RCA y XLR (−6 dB), rec (con isolator), booth (independiente).
+- Eucalipto, 28,5 × 34,5 × 10 cm, 4 kg, 220 V 50 Hz, 5 W. **Sin garantía.**
+
+Lectura (Claude): cubre todo lo que Ana necesita. La Pearl (4 mV) y la Concorde entran bien en el phono (5 mV, 47 kΩ).
+Tiene cue completo, booth para el evento con Seba y rec para grabar. El K.O. en el canal 3 suena en mono; en estéreo va
+en la entrada de línea del 1 o el 2. Faltan datos de ruido y distorsión, y no tiene garantía: probarlo en persona y que
+lo revise el restaurador.
+
+**Pendiente de preguntar a Pacson:** precio de cada edición; diferencia entre la negra y la roja; quién hace el service
+si falla; si se puede probar en persona; si hay devolución. Para conectarlo: MASTER RCA → AUX del Lenco.
 
 ### El resto del set (pendiente de definir)
 
