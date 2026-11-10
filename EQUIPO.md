@@ -248,6 +248,29 @@ headshell, chapa, cápsula original si está). Pasos para el voltaje:
 - Usada afuera (eBay, precios pedidos, no ventas cerradas): **US$ 300-400** funcionando, casi todas desde Japón, más
   US$ 70-100 de envío. Vale menos de la mitad que una 1200 MK2 (mediana €755): a la 1200 la empuja la demanda DJ.
 
+### Pacson PM-3AL vs Pioneer DJM-250MK2 (10/11/2026)
+
+Datos del DJM-250MK2: ficha oficial de pioneerdj.com. Precio: ~ARS 1.000.000 (Frávega, 2026).
+
+| | Pacson PM-3AL | Pioneer DJM-250MK2 |
+|---|---|---|
+| Control | Perillas (rotary), sin crossfader | Palancas + crossfader Magvel |
+| Por dentro | Analógico de punta a punta | Digital (DSP de 64 bits): convierte el disco a digital |
+| Graves por canal | EQ de 3 bandas, graves hasta −26 dB | **Isolator de 3 bandas por canal con corte total** |
+| Isolator al master | **Sí**, 3 bandas, −45 dB | No |
+| Filtro por canal | No | **Sí** (Sound Color FX) |
+| Grabar | Salida rec (a la Mac, con interfaz USB aparte) | **Placa de sonido USB incluida**: graba directo a la Mac |
+| Booth | **Sí** | No figura en la ficha |
+| Efectos externos | Envío y retorno por canal | No |
+| Canales | 2 phono + línea mono + mic | 2 (phono/línea) + mic |
+| Garantía | **No** (se puede probar en persona) | Sí (oficial) |
+| Tutoriales | Pocos | Muchísimos: es el estándar |
+
+Lectura (Claude): el **Pacson** es el que va con el sonido y el gesto que Ana busca (analógico, rotary, isolator al
+master, madera, local). El **Pioneer** es el camino seguro: garantía, tutoriales, corte total de graves por canal,
+filtro y grabación directa. Recomendación: Pacson si la prueba sale bien y el precio está por debajo del Pioneer;
+Pioneer si prefiere garantía y aprender con tutoriales.
+
 ### El resto del set (pendiente de definir)
 
 - Mixer de 2 canales.
