@@ -188,7 +188,7 @@ Usado vintage: Technics SH-DJ1200, Vestax PMC. Requisito: **dos entradas PHONO**
 - Mixer de 2 canales.
 - Cápsulas DJ ×2: **Ortofon Concorde** (decisión de Ana, 10/11/2026).
 - Slipmats.
-- Auriculares cerrados (los AKG son semiabiertos y a Ana le molestan por peso y presión: **prioridad comodidad**).
+- Auriculares cerrados (los AKG son semiabiertos y a Ana le aprietan en la cabeza: **prioridad comodidad**, vincha ancha y acolchada).
   Recomendados (10/11/2026, pesos aproximados): **Beyerdynamic DT 770 Pro** (~250 g, almohadillas de pana alrededor
   de la oreja, presión suave; versión de 80 Ω o 32 Ω) o **Sony MDR-7506** (~230 g, livianos y baratos). Sennheiser
   HD 25 (~140 g, el clásico de cabina) es el más liviano pero aprieta y se apoya sobre la oreja. ATH-M50x (~285 g)
