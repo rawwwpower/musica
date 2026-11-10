@@ -241,6 +241,13 @@ headshell, chapa, cápsula original si está). Pasos para el voltaje:
 3. Si no tiene, el restaurador cambia el transformador interno y **guarda el original** en una bolsita con la bandeja.
 4. Mientras tanto, el trafo externo va perfecto.
 
+### SL-1700 MK2: valor (consultado 10/11/2026)
+
+- Precio original en Alemania: 890 DM (hifi-wiki, sitio alemán). Casi lo mismo que una SL-1200 MK2 (990 DM): gama
+  media-alta de Technics. Hoy serían ~US$ 1.300-2.100 según cómo se ajuste la inflación (en euros o en dólares).
+- Usada afuera (eBay, precios pedidos, no ventas cerradas): **US$ 300-400** funcionando, casi todas desde Japón, más
+  US$ 70-100 de envío. Vale menos de la mitad que una 1200 MK2 (mediana €755): a la 1200 la empuja la demanda DJ.
+
 ### El resto del set (pendiente de definir)
 
 - Mixer de 2 canales.
