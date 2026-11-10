@@ -9,11 +9,15 @@ propio archivo en `instrumentos/`.
 
 ## Retomar acá (10/11/2026)
 
-Ana **sumó una Technics SL-1700 MK2** (directa, automática o manual) y ya le montó la **Sumiko Pearl**, ajustada. La
-**SL-D3 está a la venta** (queda ~1 mes) para ir hacia las **SL-1200**. Decidido: cápsula para la 1200 = **Ortofon
-Concorde**. Sus AKG MKII son **semiabiertos**; se le recomendaron auriculares cerrados (abajo). Lo próximo: elegir el
-**mixer** (en la mira: Pacson PM-3AL o PM-2AL, ver preguntas pendientes) y los auriculares (DT 770 Pro). Abierto: foto de la 1700 (pitch y headshell). Cuando se venda la SL-D3,
-sacarla de la tabla y de `CLAUDE.md`.
+Ana sumó una **Technics SL-1700 MK2** (Pearl montada y ajustada). La **SL-D3 está a la venta** (~1 mes) para ir hacia
+las SL-1200. Estilo que quiere para mezclar: **del trip hop al psy trance**, con isolator. No le interesa el scratch. El
+K.O. queda para casa, no para tocar en vivo.
+
+**Set sugerido por Claude (10/11/2026), a confirmar por Ana:** mixer **Pacson PM-3AL** (si lo prueba en persona y el
+restaurador lo revisa, porque no tiene garantía); auriculares **Beyerdynamic DT 770 Pro**; cápsulas **Ortofon Concorde
+MkII Club** (a confirmar el modelo); slipmats; par de **SL-1200 hechas en Japón** (MK5 o MK3D). Orden: mixer y
+auriculares → primera 1200 con Concorde → segunda 1200. Abierto: mensaje a Pacson (precio, negra o roja, service,
+prueba), foto de la chapa de abajo de la 1700 (voltaje y selector).
 
 ## Objetivo
 
@@ -29,7 +33,7 @@ potencia que la del equipo de casa.
 
 | Equipo | Estado | Notas |
 |---|---|---|
-| Technics **SL-1700 MK2** (1977–79, hecha en Japón) | Nueva (nov. 2026) | Directa, motor de CC con **cuarzo** (PLL), semiautomática (se usa manual o con retorno automático), **pitch ±6 %**, plato de aluminio de 332 mm. Brazo estático de 230 mm, fuerza de apoyo de 0 a 2,5 g. Cables RCA fijos. W&F 0,025 % WRMS (hifi-wiki). El lift automático usa una correíta de goma que con los años se rompe: tiene repuesto. Headshell desmontable a confirmar con foto. Con un headshell por cápsula se cambia de "escuchar" a "tocar" en segundos. |
+| Technics **SL-1700 MK2** (1977–79, hecha en Japón) | Nueva (nov. 2026) | Directa, motor de CC con **cuarzo** (PLL), semiautomática (se usa manual o con retorno automático), **pitch ±6 %**, plato de aluminio de 332 mm. Brazo estático de 230 mm, fuerza de apoyo de 0 a 2,5 g. Cables RCA fijos. W&F 0,025 % WRMS (hifi-wiki). El lift automático usa una correíta de goma que con los años se rompe: tiene repuesto. Cápsula original: Technics EPC-207C (si aparece, guardarla). Toda original salvo la púa (Pearl). Usa **trafo** externo; la conversión a 220 V la haría el restaurador de forma reversible (ver "Coleccionable" abajo). Headshell desmontable a confirmar con foto. Con un headshell por cápsula se cambia de "escuchar" a "tocar" en segundos. |
 | Technics **SL-D3** (1978–80) | Restaurada a nuevo | Directa, B-FG servo (sin cuarzo), **totalmente automática**, pitch ±10 % con estroboscopio, 33/45, plato de aluminio de 312 mm. Brazo estático de 230 mm con fuerza de apoyo regulable de 0 a 2,5 g y antiskating. Wow & flutter de 0,03 % WRMS y rumble de −75 dB. Es para escuchar, no para mezclar (ver abajo). **A la venta** (nov. 2026), para ir hacia las 1200. |
 | Cápsula **Sumiko Pearl** (MM, hecha en Japón) | Montada en la **SL-1700 MK2**, ajustada (nov. 2026) | Púa elíptica de 0,3×0,7 mil y cantiléver de aluminio. Salida de 4 mV, carga de 47 kΩ y 100–200 pF. Compliance de 12 cu y peso de 6 g. **Fuerza de apoyo: 2,0 g** (rango 1,5–2,0), con el antiskating en el mismo valor. Repuesto: aguja RS Pearl. Con el brazo de la SL-D3 la resonancia daba ~10–11 Hz (estimado). Para mezclar suave sirve; para scratch y backcue fuerte, la cápsula DJ. |
 | Amplificador **Lenco A600** (1978) | Restaurado | Integrado de fines de los 70, hecho en Corea por un fabricante OEM y vendido con la marca suiza (según hifi-wiki). 2×60 W en 8 Ω y 2×120 W en 4 Ω. Ecualizador gráfico de 5 bandas (40 Hz, 250 Hz, 1 kHz, 5 kHz y 15 kHz, ±10 dB), vúmetros, loudness, mono/stereo y salidas de bafles A/B. Entradas: PHONO 1 y 2, TUNER, AUX 1 y 2, TAPE 1 y 2 (con monitor y dubbing). La bandeja va en PHONO. Tiene **REC out de TAPE 2 en el frente** (confirmado con foto, 26/10/2026). |
@@ -226,6 +230,15 @@ lo revise el restaurador.
 
 **Pendiente de preguntar a Pacson:** precio de cada edición; diferencia entre la negra y la roja; quién hace el service
 si falla; si se puede probar en persona; si hay devolución. Para conectarlo: MASTER RCA → AUX del Lenco.
+
+### SL-1700 MK2: coleccionable y voltaje (10/11/2026)
+
+Regla: **"Original y reversible."** Lo que le da valor de colección es que esté completa y original (tapa, contrapeso,
+headshell, chapa, cápsula original si está). Pasos para el voltaje:
+1. Mirar la chapa de abajo: voltaje y si dice algo como "voltage selector".
+2. Si tiene selector, el restaurador lo pasa a 220 V moviéndolo: no cambia nada original.
+3. Si no tiene, el restaurador cambia el transformador interno y **guarda el original** en una bolsita con la bandeja.
+4. Mientras tanto, el trafo externo va perfecto.
 
 ### El resto del set (pendiente de definir)
 
