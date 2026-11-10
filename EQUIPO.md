@@ -5,13 +5,26 @@ la ingeniera tech y de sonido del proyecto: leer esto antes de asesorar
 sobre equipo y actualizarlo cuando algo cambie. Cada instrumento tiene su
 propio archivo en `instrumentos/`.
 
-**Última actualización:** 2026-11-03
+**Última actualización:** 2026-11-10
+
+## Retomar acá (10/11/2026)
+
+Ana sumó una **Technics SL-1700 MK2** (Pearl montada y ajustada). La **SL-D3 está a la venta** (~1 mes) para ir hacia
+las SL-1200. Estilo que quiere para mezclar: **del trip hop al psy trance**, con isolator. No le interesa el scratch. El
+K.O. queda para casa, no para tocar en vivo.
+
+**Set sugerido por Claude (10/11/2026), a confirmar por Ana:** mixer **Pacson PM-3AL** (si lo prueba en persona y el
+restaurador lo revisa, porque no tiene garantía); auriculares **Beyerdynamic DT 770 Pro**; cápsulas **Ortofon Concorde
+MkII Club** (a confirmar el modelo); slipmats; par de **SL-1200 hechas en Japón** (MK5 o MK3D). Orden: mixer y
+auriculares → primera 1200 con Concorde → segunda 1200. Abierto: mensaje a Pacson (precio, negra o roja, service,
+prueba), foto de la chapa de abajo de la 1700 (voltaje y selector). Ya se le explicó: EQ por canal y pase de graves
+("un solo bajo a la vez"), booth (parlante de cabina) y rec (grabar la mezcla; a la Mac va con una interfaz de audio USB).
 
 ## Objetivo
 
 Aprender a **mezclar vinilos** (DJ) en vivo, sin descartar el sampleo. Enfoque
 artesanal y barato: aprovechar lo que ya tiene y priorizar la calidad de la
-mezcla y del sonido antes que gastar en equipo. Lo que más disfruta es buscar
+mezcla y del sonido antes que gastar en equipo. Estilo (10/11/2026): **del trip hop al psy trance**, mezclas largas con isolator; el scratch no le interesa. Lo que más disfruta es buscar
 discos y encontrar temas para samplear.
 
 Plan con Seba: usar la bandeja en un evento más grande, donde haría falta más
@@ -21,12 +34,13 @@ potencia que la del equipo de casa.
 
 | Equipo | Estado | Notas |
 |---|---|---|
-| Technics **SL-D3** (1978–80) | Restaurada a nuevo | Directa, B-FG servo (sin cuarzo), **totalmente automática**, pitch ±10 % con estroboscopio, 33/45, plato de aluminio de 312 mm. Brazo estático de 230 mm con fuerza de apoyo regulable de 0 a 2,5 g y antiskating. Wow & flutter de 0,03 % WRMS y rumble de −75 dB. Es para escuchar, no para mezclar (ver abajo). |
-| Cápsula **Sumiko Pearl** (MM, hecha en Japón) | Montada en la SL-D3 | Púa elíptica de 0,3×0,7 mil y cantiléver de aluminio. Salida de 4 mV, carga de 47 kΩ y 100–200 pF. Compliance de 12 cu y peso de 6 g. **Fuerza de apoyo: 2,0 g** (rango 1,5–2,0), con el antiskating en el mismo valor. Repuesto: aguja RS Pearl. Con el brazo de la SL-D3 la resonancia da ~10–11 Hz (estimado), que está en el rango ideal. |
-| Amplificador **Lenco A600** (1978) | Restaurado | Integrado de fines de los 70, hecho en Corea por un fabricante OEM y vendido con la marca suiza (según hifi-wiki). 2×60 W en 8 Ω y 2×120 W en 4 Ω. Ecualizador gráfico de 5 bandas (40 Hz, 250 Hz, 1 kHz, 5 kHz y 15 kHz, ±10 dB), vúmetros, loudness, mono/stereo y salidas de bafles A/B. Entradas: PHONO 1 y 2, TUNER, AUX 1 y 2, TAPE 1 y 2 (con monitor y dubbing). La SL-D3 va en PHONO. Tiene **REC out de TAPE 2 en el frente** (confirmado con foto, 26/10/2026). |
+| Technics **SL-1700 MK2** (1977–79, hecha en Japón) | Nueva (nov. 2026) | Directa, motor de CC con **cuarzo** (PLL), semiautomática (se usa manual o con retorno automático), **pitch ±6 %**, plato de aluminio de 332 mm. Brazo estático de 230 mm, fuerza de apoyo de 0 a 2,5 g. Cables RCA fijos. W&F 0,025 % WRMS (hifi-wiki). El lift automático usa una correíta de goma que con los años se rompe: tiene repuesto. Cápsula original: Technics EPC-207C (si aparece, guardarla). Toda original salvo la púa (Pearl). Usa **trafo** externo; la conversión a 220 V la haría el restaurador de forma reversible (ver "Coleccionable" abajo). Headshell desmontable a confirmar con foto. Con un headshell por cápsula se cambia de "escuchar" a "tocar" en segundos. |
+| Technics **SL-D3** (1978–80) | Restaurada a nuevo | Directa, B-FG servo (sin cuarzo), **totalmente automática**, pitch ±10 % con estroboscopio, 33/45, plato de aluminio de 312 mm. Brazo estático de 230 mm con fuerza de apoyo regulable de 0 a 2,5 g y antiskating. Wow & flutter de 0,03 % WRMS y rumble de −75 dB. Es para escuchar, no para mezclar (ver abajo). **A la venta** (nov. 2026), para ir hacia las 1200. |
+| Cápsula **Sumiko Pearl** (MM, hecha en Japón) | Montada en la **SL-1700 MK2**, ajustada (nov. 2026) | Púa elíptica de 0,3×0,7 mil y cantiléver de aluminio. Salida de 4 mV, carga de 47 kΩ y 100–200 pF. Compliance de 12 cu y peso de 6 g. **Fuerza de apoyo: 2,0 g** (rango 1,5–2,0), con el antiskating en el mismo valor. Repuesto: aguja RS Pearl. Con el brazo de la SL-D3 la resonancia daba ~10–11 Hz (estimado). Para mezclar suave sirve; para scratch y backcue fuerte, la cápsula DJ. |
+| Amplificador **Lenco A600** (1978) | Restaurado | Integrado de fines de los 70, hecho en Corea por un fabricante OEM y vendido con la marca suiza (según hifi-wiki). 2×60 W en 8 Ω y 2×120 W en 4 Ω. Ecualizador gráfico de 5 bandas (40 Hz, 250 Hz, 1 kHz, 5 kHz y 15 kHz, ±10 dB), vúmetros, loudness, mono/stereo y salidas de bafles A/B. Entradas: PHONO 1 y 2, TUNER, AUX 1 y 2, TAPE 1 y 2 (con monitor y dubbing). La bandeja va en PHONO. Tiene **REC out de TAPE 2 en el frente** (confirmado con foto, 26/10/2026). |
 | Bafles **Technics** vintage | Restaurados | Conectados al Lenco. Falta confirmar el modelo (chapa de atrás). |
 | TV **LG OLED** + DAC | Funciona | El audio de la TV va: salida óptica (Toslink) → DAC (a RCA, alimentado por USB) → **AUX** del Lenco. Nunca a PHONO. |
-| Auriculares **AKG MKII** | Funcionan | Falta confirmar el modelo exacto. |
+| Auriculares **AKG MKII** | Funcionan | **Semiabiertos** (confirmado por Ana): sirven para escuchar en casa; para pinchar conviene unos cerrados. |
 | **Teenage Engineering EP-133 K.O. II** (Champ Edition, 64 MB) | Funciona | Sampler. **OS 2.5.1** (actualizado desde la 1.2.3 el 21/10/2026): ya tiene audio por USB. Todo lo del K.O. está en [`instrumentos/ko-ii.md`](instrumentos/ko-ii.md). |
 | Mac M1 + Mac i7 2015 | Funcionan | La i7 se puede dedicar entera a esto. |
 | Restaurador de confianza | — | "Excelente" según Ana. Hace que convenga comprar usado. |
@@ -146,12 +160,97 @@ Bandejas de otras marcas que cumplen: Pioneer PLX-1000, Reloop RP-7000 MK2, Audi
   protege mejor el valor.
 - Falta: ventas cerradas (eBay sold) y una serie de precios año por año.
 
+### Para qué sirve cada equipo (10/11/2026)
+
+Regla: **"La bandeja lee, el mixer junta, el amplificador empuja, los bafles suenan."** El K.O. es un instrumento: hace
+sonidos y entra al mixer como una bandeja más.
+
+| Equipo | Qué hace | Analogía | ¿Lo tiene? |
+|---|---|---|---|
+| Bandeja + cápsula | Lee el surco | La aguja "lee" el disco | Sí: SL-1700 MK2 con Sumiko Pearl |
+| Pre de phono | Sube la señal chiquita de la cápsula | Un megáfono para la aguja | Sí, adentro del Lenco (PHONO) y adentro de todo mixer DJ |
+| **Mixer DJ** (mezcladora) | Junta 2 o más fuentes, pasa de una a otra (crossfader) y deja escuchar la próxima por auriculares (cue) | La mesa donde se encuentran dos discos | No: es lo próximo |
+| Sampler (K.O. II) | Graba pedacitos y los toca en loop | Una caja de recortes de discos | Sí |
+| Amplificador (Lenco A600) | Le da potencia a la señal para mover los bafles | El motor | Sí |
+| Bafles | Convierten la señal en sonido | La boca | Sí (Technics) |
+| Auriculares cerrados | Escuchar el próximo disco sin que suene en la sala | Espiar el disco que viene | No: los AKG son semiabiertos |
+| Cápsula DJ | Aguja redonda (esférica), robusta, para tocar el disco con la mano | Una púa "todo terreno" | No |
+| Slipmat | Deja patinar el disco sobre el plato | Hielo bajo el disco | No |
+| 2.ª bandeja manual | Para mezclar disco con disco | La compañera de la 1700 | No (más adelante) |
+
+**Cómo se conecta con un mixer:** bandeja → entrada PHONO del mixer; K.O. → entrada LINE del mixer; salida MASTER del
+mixer → **AUX** del Lenco. La bandeja deja de ir al PHONO del Lenco.
+
+**Cápsulas:** la Sumiko Pearl es ideal para **escuchar** y sirve para mezclar suave (Ana lo confirmó con alguien que sabe); para scratch y backcue, no. Para **tocar**, una
+cápsula DJ esférica en su propio headshell. Ejemplos: Ortofon Concorde MkII (Club o DJ), Ortofon OM/Pro S en headshell,
+Audio-Technica AT-XP3 o AT-XP5, Shure M44-7 usada.
+
+**Mixers de 2 canales con phono (ejemplos):** Pioneer DJM-250MK2, Allen & Heath Xone:23, Reloop o Numark de entrada.
+Usado vintage: Technics SH-DJ1200, Vestax PMC. Requisito: **dos entradas PHONO**, crossfader y salida de auriculares.
+
+### Mixer en la mira: Pacson (investigado 10/11/2026)
+
+**Rotary vs palancas.** El rotary (perillas, casi siempre sin crossfader) nació en las discotecas de los 70 (Bozak,
+después UREI 1620, que usaban en clubes como el Paradise Garage) y es el preferido para house, disco y mezclas largas.
+El de palancas (faders + crossfader) nació con el hip-hop para cortar rápido y scratchear; es el estándar de clubes
+(Pioneer) y de los tutoriales. Que sea rotary no hace que suene mejor: el sonido depende del circuito (RBMA). Lo que
+cambia es el gesto: girar es más fácil para subir despacio. **Isolator:** ecualizador de 3 bandas sobre el master que
+puede cortar del todo cada banda. No todos los mixers lo tienen: es típico de los rotary; también existe suelto (Pacson
+Iso3dj, E&S, MasterSounds).
+
+**Pacson.** Marca argentina; en los 70-80 hacía amplificadores (recuerdos en forosdeelectronica, sin fuentes formales).
+Sigue activa: vende por MercadoLibre e Instagram (@pacsonaudio). No se encontró fecha de fundación, fundador ni sitio
+oficial. Modelos vistos:
+
+| Modelo | Qué es | Datos |
+|---|---|---|
+| **PM-3AL** | Rotary de 3 canales con isolator | Ver ficha completa abajo. Ediciones negra y roja ("limited red"), vúmetros de aguja o LED. **Sin garantía.** Sin precio publicado. |
+| **PM-2AL** | Rotary de 2 canales | 2 entradas phono, 4 de línea con A/B, vúmetros de aguja o LED. Avisos en ML de ARS 100.000 a 795.000 según la fecha; uno de Marketplace con nuevos a ARS 690.000. |
+| **Iso3dj** | Isolator suelto | Avisos en ML desde ARS 49.500 (usado) hasta ~ARS 500.000. |
+
+Sin reseñas independientes ni mediciones de Pacson (solo notas promocionales y avisos).
+
+**Comparables de afuera (rotary):** Omnitronic TRM-202 MK3 (el más barato del mercado), Ecler WARM2, Union Audio
+Orbit.2 LE (~US$ 930), Condesa Carmen V (~US$ 1.620), E&S DJR-400 (~US$ 2.000, hecho a mano), MasterSounds Radius,
+Isonoe, Rane MP2015 (~US$ 3.200 usado). **De palancas para empezar:** Pioneer DJM-250MK2 (~ARS 1.000.000 en Frávega,
+2026; €449 en Alemania), Allen & Heath Xone:23, Numark M2.
+
+**Ficha oficial del PM-3AL (la pasó el vendedor de Pacson a Ana, 10/11/2026; Ana lo conoce y puede probarlo en persona):**
+- Canales 1 y 2: entrada phono (47 kΩ, 5 mV) y de línea (100 kΩ, 450 mV), ganancia ±50 %, tonos de 3 bandas
+  (graves +14/−26 dB, medios +14/−14 dB, agudos +14/−26 dB), envío y retorno de efectos, botón PFL (cue).
+- Canal 3: línea **mono** (47 kΩ) y micrófono con low cut.
+- Isolator de 3 bandas al master: +9/−45 dB cada una (corte casi total).
+- Auriculares: perilla Cue/Mixing, salida de 1 W por canal. Vúmetro PFL, master L y R.
+- Salidas: master RCA y XLR (−6 dB), rec (con isolator), booth (independiente).
+- Eucalipto, 28,5 × 34,5 × 10 cm, 4 kg, 220 V 50 Hz, 5 W. **Sin garantía.**
+
+Lectura (Claude): cubre todo lo que Ana necesita. La Pearl (4 mV) y la Concorde entran bien en el phono (5 mV, 47 kΩ).
+Tiene cue completo, booth para el evento con Seba y rec para grabar. El K.O. en el canal 3 suena en mono; en estéreo va
+en la entrada de línea del 1 o el 2. Faltan datos de ruido y distorsión, y no tiene garantía: probarlo en persona y que
+lo revise el restaurador.
+
+**Pendiente de preguntar a Pacson:** precio de cada edición; diferencia entre la negra y la roja; quién hace el service
+si falla; si se puede probar en persona; si hay devolución. Para conectarlo: MASTER RCA → AUX del Lenco.
+
+### SL-1700 MK2: coleccionable y voltaje (10/11/2026)
+
+Regla: **"Original y reversible."** Lo que le da valor de colección es que esté completa y original (tapa, contrapeso,
+headshell, chapa, cápsula original si está). Pasos para el voltaje:
+1. Mirar la chapa de abajo: voltaje y si dice algo como "voltage selector".
+2. Si tiene selector, el restaurador lo pasa a 220 V moviéndolo: no cambia nada original.
+3. Si no tiene, el restaurador cambia el transformador interno y **guarda el original** en una bolsita con la bandeja.
+4. Mientras tanto, el trafo externo va perfecto.
+
 ### El resto del set (pendiente de definir)
 
 - Mixer de 2 canales.
-- Cápsulas DJ ×2 (ej. Ortofon Concorde MkII / serie DJ).
+- Cápsulas DJ ×2: **Ortofon Concorde** (decisión de Ana, 10/11/2026).
 - Slipmats.
-- Auriculares cerrados (ver si alcanzan los AKG que ya tiene).
+- Auriculares cerrados (los AKG son semiabiertos y a Ana le aprietan arriba de la cabeza y es sensible a la presión: **prioridad comodidad**, vincha ancha y acolchada).
+  Recomendados (10/11/2026, pesos aproximados): **Beyerdynamic DT 770 Pro** (~250 g, almohadillas de pana alrededor
+  de la oreja, presión suave; versión de 80 Ω o 32 Ω) o **Sony MDR-7506** (~230 g, livianos y baratos). Sennheiser
+  HD 25 (~140 g, el clásico de cabina) es el más liviano pero aprieta y se apoya sobre la oreja. ATH-M50x (~285 g)
+  aprieta al principio. Probarlos antes si se puede.
 
 
 ## Catálogo para pinchar
