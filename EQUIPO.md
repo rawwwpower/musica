@@ -12,7 +12,7 @@ propio archivo en `instrumentos/`.
 Ana **sumó una Technics SL-1700 MK2** (directa, automática o manual) y ya le montó la **Sumiko Pearl**, ajustada. La
 **SL-D3 está a la venta** (queda ~1 mes) para ir hacia las **SL-1200**. Decidido: cápsula para la 1200 = **Ortofon
 Concorde**. Sus AKG MKII son **semiabiertos**; se le recomendaron auriculares cerrados (abajo). Lo próximo: elegir el
-**mixer de 2 canales** y los auriculares. Abierto: foto de la 1700 (pitch y headshell). Cuando se venda la SL-D3,
+**mixer** (en la mira: Pacson PM-3AL, ver preguntas pendientes) y los auriculares (DT 770 Pro). Abierto: foto de la 1700 (pitch y headshell). Cuando se venda la SL-D3,
 sacarla de la tabla y de `CLAUDE.md`.
 
 ## Objetivo
@@ -182,6 +182,22 @@ Audio-Technica AT-XP3 o AT-XP5, Shure M44-7 usada.
 
 **Mixers de 2 canales con phono (ejemplos):** Pioneer DJM-250MK2, Allen & Heath Xone:23, Reloop o Numark de entrada.
 Usado vintage: Technics SH-DJ1200, Vestax PMC. Requisito: **dos entradas PHONO**, crossfader y salida de auriculares.
+
+### Mixer en la mira: Pacson PM-3AL (investigado 10/11/2026)
+
+Pacson es una marca argentina con historia en amplificadores (años 70, según recuerdos en foros). Hoy hace mixers
+**rotary** analógicos. Qué es un rotary: perillas en vez de faders y, en general, sin crossfader. Sirve para mezclas
+largas y suaves (house, disco, soul), no para scratch, y combina con la Pearl. **Isolator:** un ecualizador de 3
+bandas (graves, medios, agudos) sobre el master, que puede cortar del todo cada banda.
+
+Datos del aviso de Pacson (Instagram, dic. 2025, y nota de DJW Magazine, muy promocional): 3 canales rotativos,
+entradas phono RIAA, entradas de línea A/B conmutables, isolator, vúmetros de aguja o LED, 220 V, salidas RCA y
+Canon (XLR) balanceadas de hasta 8 V, 6 × 36 cm (para rack). Hay un hermano más chico, **PM-2AL** (2 canales). No hay
+reseñas independientes ni mediciones.
+
+**Preguntarle a Pacson antes de decidir:** cuántas entradas phono tiene (¿las 3?); si tiene **salida de auriculares
+con cue** por canal (imprescindible); si cada canal tiene ecualizador o solo está el isolator; si tiene salida booth;
+precio de cada versión; garantía y service; si se puede probar en persona. Para conectarlo: MASTER RCA → AUX del Lenco.
 
 ### El resto del set (pendiente de definir)
 
