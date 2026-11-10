@@ -23,7 +23,7 @@ prueba), foto de la chapa de abajo de la 1700 (voltaje y selector).
 
 Aprender a **mezclar vinilos** (DJ) en vivo, sin descartar el sampleo. Enfoque
 artesanal y barato: aprovechar lo que ya tiene y priorizar la calidad de la
-mezcla y del sonido antes que gastar en equipo. Lo que más disfruta es buscar
+mezcla y del sonido antes que gastar en equipo. Estilo (10/11/2026): **del trip hop al psy trance**, mezclas largas con isolator; el scratch no le interesa. Lo que más disfruta es buscar
 discos y encontrar temas para samplear.
 
 Plan con Seba: usar la bandeja en un evento más grande, donde haría falta más
