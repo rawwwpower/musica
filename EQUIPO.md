@@ -7,7 +7,7 @@ propio archivo en `instrumentos/`.
 
 **Última actualización:** 2026-11-10
 
-## Retomar acá (10/11/2026)
+## Retomar acá (11/11/2026)
 
 Ana sumó una **Technics SL-1700 MK2** (Pearl montada y ajustada). La **SL-D3 está a la venta** (~1 mes) para ir hacia
 las SL-1200. Estilo que quiere para mezclar: **del trip hop al psy trance**, con isolator. No le interesa el scratch. El
@@ -18,7 +18,17 @@ restaurador lo revisa, porque no tiene garantía); auriculares **Beyerdynamic DT
 MkII Club** (a confirmar el modelo); slipmats; par de **SL-1200 hechas en Japón** (MK5 o MK3D). Orden: mixer y
 auriculares → primera 1200 con Concorde → segunda 1200. Abierto: mensaje a Pacson (precio, negra o roja, service,
 prueba), foto de la chapa de abajo de la 1700 (voltaje y selector). Ya se le explicó: EQ por canal y pase de graves
-("un solo bajo a la vez"), booth (parlante de cabina) y rec (grabar la mezcla; a la Mac va con una interfaz de audio USB).
+("un solo bajo a la vez"), booth (parlante de cabina) y rec (grabar la mezcla; a la Mac va con una interfaz de audio USB). Comparados el Pacson PM-3AL y el Pioneer
+DJM-250MK2 (tabla abajo): sigue ganando el Pacson si la prueba sale bien y el precio queda por debajo del Pioneer.
+
+**Idea nueva (11/11/2026): bandeja simulada propia.** Ana vio [vinyl-gl.vercel.app](https://vinyl-gl.vercel.app)
+(código: [rauchg/vinyl](https://github.com/rauchg/vinyl), licencia MIT): una bandeja en WebGL que corta el surco y lo
+lee con una púa simulada. El diseño es claramente una Technics SL-1210 (estroboscopio, pitch deslizante, brazo en S), sin
+nombrarla; brazo de 228,6 mm. Plan propuesto: copiarlo en una carpeta `bandeja/` de este repo (dejando el aviso MIT del
+autor) y adaptarlo a la **SL-1700 MK2 plateada** (brazo de 230 mm, overhang de 15 mm, offset de 22°, plato de 332 mm,
+cuarzo) con la **Sumiko Pearl** (elíptica 0,3 × 0,7, 2,0 g, compliance 12). Sus discos se cortan solo en el navegador:
+no se suben audios con derechos al repo. **Falta:** el "sí" de Ana para arrancar y fotos de la 1700 (arriba, costado y el
+brazo con la Pearl).
 
 ## Objetivo
 
