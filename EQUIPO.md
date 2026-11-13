@@ -21,6 +21,11 @@ prueba), foto de la chapa de abajo de la 1700 (voltaje y selector). Ya se le exp
 ("un solo bajo a la vez"), booth (parlante de cabina) y rec (grabar la mezcla; a la Mac va con una interfaz de audio USB). Comparados el Pacson PM-3AL y el Pioneer
 DJM-250MK2 (tabla abajo): sigue ganando el Pacson si la prueba sale bien y el precio queda por debajo del Pioneer.
 
+**Segunda bandeja para practicar (13/11/2026):** un amigo de Ana tiene una **Audio-Technica AT-LP120XBT-USB**
+(tracción directa, manual, pitch ±8/±16 %, preamplificador interno con llave PHONO/LINE, headshell desmontable). Sirve
+para probar un set juntos con la SL-1700 MK2 mientras no lleguen las 1200: va por cable RCA (el Bluetooth no sirve para
+mezclar). Falta el mixer, que lo compraría Ana (el amigo no tiene): refuerza el orden "mixer primero".
+
 **Idea nueva (11/11/2026): bandeja simulada propia.** Ana vio [vinyl-gl.vercel.app](https://vinyl-gl.vercel.app)
 (código: [rauchg/vinyl](https://github.com/rauchg/vinyl), licencia MIT): una bandeja en WebGL que corta el surco y lo
 lee con una púa simulada. El diseño es claramente una Technics SL-1210 (estroboscopio, pitch deslizante, brazo en S), sin
