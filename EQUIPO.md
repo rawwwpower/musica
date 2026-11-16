@@ -126,6 +126,17 @@ pitch de ±16 % y luces azules (la M3D no: es ±8 %). Están buenas pero no hace
   pitch ±10 %, memo-repeat), ARS 700.000 y necesita service. Sugerido: ofrecer 550–600 mil o comparar con la SL-D3 de
   Ana, que está restaurada.
 
+### La SL-1700 MK2 en detalle (investigado 07/11/2026)
+
+Fuentes: foros (Vinyl Engine, Audiokarma, Steve Hoffman), hifi-wiki y avisos. No hay catálogo de Technics que lo confirme todo.
+
+- **Por dentro es casi una SL-1200 MK2:** según varios dueños, comparte el motor, el plato, la goma, el brazo (salvo lo automático), la base del brazo y la lucecita de púa.
+- **Chasis suspendido** (sobre resortes), que la 1200 MK2 no tiene. Aísla mejor para escuchar; al tocar el plato con la mano se siente más blanda. La base es de aluminio fundido.
+- **Motorcito aparte para el brazo**, con correa e independiente del motor del plato: lo levanta y lo devuelve al final. Tiene un control para **cancelar la vuelta automática** (lo cita un dueño), con lo que el brazo queda manual.
+- Altura del brazo regulable y amortiguación al bajar la púa (mejoras sobre la 1700 original).
+- Peso: ~10 kg. Wow & flutter de 0,025 % WRMS. Masa efectiva del brazo: 16 g o 22 g según la fuente (depende de si cuentan el headshell); con la Pearl anda bien en los dos casos.
+- **Falla típica:** que el brazo no vuelva o el Stop no responda. Suelen ser dos chips CMOS de la placa lógica o la correa del motorcito del brazo. Tiene arreglo.
+
 ### ¿Tienen que ser iguales? (pregunta de Ana, 02/11/2026)
 
 No es obligatorio. Ana quiere mezclar con Seba o un amigo, cada uno con su bandeja, y eso se puede. Lo que tiene que
@@ -323,4 +334,5 @@ para pinchar.
 
 ## Decisiones / compras
 
-_(nada todavía)_
+- **07/11/2026, plan:** la SL-1700 MK2 pasa a ser la principal para escuchar en casa y para meterse en el uso manual. **Vender la SL-D3** y conseguir una **SL-1200 para restaurar** ("para reparar" o sin service, ver "Qué revisar al comprar una usada"). Sin apuro: **paciencia y ojo**.
+- **07/11/2026:** Ana compró una Technics SL-1700 MK2 en muy buen estado (ver "Lo que tiene hoy"). Idea de Ana: usarla en casa y **adaptarla para tocar**: brazo en manual, slipmat de fieltro y cápsula DJ en un headshell aparte (reajustar contrapeso y antiskating al cambiar). Regla: **"manual, fieltro, headshell"**.
