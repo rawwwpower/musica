@@ -5,9 +5,15 @@ la ingeniera tech y de sonido del proyecto: leer esto antes de asesorar
 sobre equipo y actualizarlo cuando algo cambie. Cada instrumento tiene su
 propio archivo en `instrumentos/`.
 
-**Última actualización:** 2026-11-10
+**Última actualización:** 2026-11-16
 
-## Retomar acá (11/11/2026)
+## Retomar acá (16/11/2026)
+
+**Última sesión (16/11):** se miró una **SL-1200M3D** en ML (2,5 M, 110 V, vendedor nuevo): buena para mezclar, pero
+cara. Ana le va a pedir foto de la etiqueta de abajo ("Made in Japan" y serial), qué accesorios trae y video del pitch
+y del arranque, y ofrecer menos. También se analizó una **SL-1600** para un amigo (solo escuchar, 700 mil + service):
+ofrecer 550–600 mil o considerar la SL-D3 de Ana. Detalles en "Vista el 16/11/2026", más abajo.
+
 
 Ana sumó una **Technics SL-1700 MK2** (Pearl montada y ajustada). La **SL-D3 está a la venta** (~1 mes) para ir hacia
 las SL-1200. Estilo que quiere para mezclar: **del trip hop al psy trance**, con isolator. No le interesa el scratch. El
@@ -111,6 +117,25 @@ pitch de ±16 % y luces azules (la M3D no: es ±8 %). Están buenas pero no hace
   ganga. Si es de 100 V, usarlo para pelear el precio (el restaurador la adapta, no
   es impedimento). Preguntar: foto de la etiqueta de abajo (voltaje y serial), si
   incluye cápsula, service hecho, estado del pitch y del brazo.
+- **Vista el 16/11/2026:** SL-1200M3D plateada en ML, usada, **ARS 2,5 M**, **110 V** (modelo de exportación a
+  EE.UU.: estrobo de 60 Hz, se ve corrido con la red de 50 Hz; la velocidad está bien). Vendedor con 1 venta, con
+  Compra Protegida y 14 días de devolución. Más cara que la MK3D del 03/11 (2,2 M) y con trafo o adaptación pendiente:
+  ofrecer menos. Pedir: foto de la etiqueta de abajo ("Made in Japan" y serial), si trae cápsula, headshell,
+  contrapeso y tapa, y video del pitch y del arranque.
+- **Consulta para un amigo (16/11/2026), solo para escuchar:** Technics SL-1600 (1976–78, automática, servo sin cuarzo,
+  pitch ±10 %, memo-repeat), ARS 700.000 y necesita service. Sugerido: ofrecer 550–600 mil o comparar con la SL-D3 de
+  Ana, que está restaurada.
+
+### La SL-1700 MK2 en detalle (investigado 07/11/2026)
+
+Fuentes: foros (Vinyl Engine, Audiokarma, Steve Hoffman), hifi-wiki y avisos. No hay catálogo de Technics que lo confirme todo.
+
+- **Por dentro es casi una SL-1200 MK2:** según varios dueños, comparte el motor, el plato, la goma, el brazo (salvo lo automático), la base del brazo y la lucecita de púa.
+- **Chasis suspendido** (sobre resortes), que la 1200 MK2 no tiene. Aísla mejor para escuchar; al tocar el plato con la mano se siente más blanda. La base es de aluminio fundido.
+- **Motorcito aparte para el brazo**, con correa e independiente del motor del plato: lo levanta y lo devuelve al final. Tiene un control para **cancelar la vuelta automática** (lo cita un dueño), con lo que el brazo queda manual.
+- Altura del brazo regulable y amortiguación al bajar la púa (mejoras sobre la 1700 original).
+- Peso: ~10 kg. Wow & flutter de 0,025 % WRMS. Masa efectiva del brazo: 16 g o 22 g según la fuente (depende de si cuentan el headshell); con la Pearl anda bien en los dos casos.
+- **Falla típica:** que el brazo no vuelva o el Stop no responda. Suelen ser dos chips CMOS de la placa lógica o la correa del motorcito del brazo. Tiene arreglo.
 
 ### ¿Tienen que ser iguales? (pregunta de Ana, 02/11/2026)
 
@@ -309,4 +334,5 @@ para pinchar.
 
 ## Decisiones / compras
 
-_(nada todavía)_
+- **07/11/2026, plan:** la SL-1700 MK2 pasa a ser la principal para escuchar en casa y para meterse en el uso manual. **Vender la SL-D3** y conseguir una **SL-1200 para restaurar** ("para reparar" o sin service, ver "Qué revisar al comprar una usada"). Sin apuro: **paciencia y ojo**.
+- **07/11/2026:** Ana compró una Technics SL-1700 MK2 en muy buen estado (ver "Lo que tiene hoy"). Idea de Ana: usarla en casa y **adaptarla para tocar**: brazo en manual, slipmat de fieltro y cápsula DJ en un headshell aparte (reajustar contrapeso y antiskating al cambiar). Regla: **"manual, fieltro, headshell"**.
