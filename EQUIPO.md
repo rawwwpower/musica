@@ -5,9 +5,15 @@ la ingeniera tech y de sonido del proyecto: leer esto antes de asesorar
 sobre equipo y actualizarlo cuando algo cambie. Cada instrumento tiene su
 propio archivo en `instrumentos/`.
 
-**Última actualización:** 2026-11-10
+**Última actualización:** 2026-11-16
 
-## Retomar acá (11/11/2026)
+## Retomar acá (16/11/2026)
+
+**Última sesión (16/11):** se miró una **SL-1200M3D** en ML (2,5 M, 110 V, vendedor nuevo): buena para mezclar, pero
+cara. Ana le va a pedir foto de la etiqueta de abajo ("Made in Japan" y serial), qué accesorios trae y video del pitch
+y del arranque, y ofrecer menos. También se analizó una **SL-1600** para un amigo (solo escuchar, 700 mil + service):
+ofrecer 550–600 mil o considerar la SL-D3 de Ana. Detalles en "Vista el 16/11/2026", más abajo.
+
 
 Ana sumó una **Technics SL-1700 MK2** (Pearl montada y ajustada). La **SL-D3 está a la venta** (~1 mes) para ir hacia
 las SL-1200. Estilo que quiere para mezclar: **del trip hop al psy trance**, con isolator. No le interesa el scratch. El
