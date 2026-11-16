@@ -146,8 +146,9 @@ Fuentes: foros (Vinyl Engine, Audiokarma, Steve Hoffman), hifi-wiki y avisos. No
 
 - **Bandejas:** Technics **SL-1200/1210 MK2** desde siempre ("mi herramienta hace 25 años", en frieze); después la
   **SL-1210MK7**, que lanzó con Technics para los 20 años de Cocoon Ibiza. Toca 100 % vinilo y en su contrato técnico pide
-  un mínimo de **dos bandejas de repuesto** (Mixmag). La foto que vio Ana (Instagram, gira por Brasil, 26/08/2026) era de
-  la casa donde paró, no la suya.
+  un mínimo de **dos bandejas de repuesto** (Mixmag). Las fotos que vio Ana (post de Brasil, 26/08/2026, y post de Ibiza,
+  09/08/2023) muestran el mismo living: sería **su casa en Ibiza**, con una bandeja hi-fi negra con tapa de acrílico
+  (¿Thorens? sin confirmar el modelo) y parlantes Bang & Olufsen. Lectura: toca con Technics y escucha en casa con una hi-fi.
 - **Cápsula:** Ortofon sacó con Cocoon una edición limitada firmada (500 unidades) basada en la **Concorde Nightclub
   MKII** (DJ Mag, ~2015). Muestra su aval; no hay una fuente de qué púa usa hoy. Es de la misma familia que la Concorde
   MkII Club del plan de Ana.
