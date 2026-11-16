@@ -111,6 +111,14 @@ pitch de ±16 % y luces azules (la M3D no: es ±8 %). Están buenas pero no hace
   ganga. Si es de 100 V, usarlo para pelear el precio (el restaurador la adapta, no
   es impedimento). Preguntar: foto de la etiqueta de abajo (voltaje y serial), si
   incluye cápsula, service hecho, estado del pitch y del brazo.
+- **Vista el 16/11/2026:** SL-1200M3D plateada en ML, usada, **ARS 2,5 M**, **110 V** (modelo de exportación a
+  EE.UU.: estrobo de 60 Hz, se ve corrido con la red de 50 Hz; la velocidad está bien). Vendedor con 1 venta, con
+  Compra Protegida y 14 días de devolución. Más cara que la MK3D del 03/11 (2,2 M) y con trafo o adaptación pendiente:
+  ofrecer menos. Pedir: foto de la etiqueta de abajo ("Made in Japan" y serial), si trae cápsula, headshell,
+  contrapeso y tapa, y video del pitch y del arranque.
+- **Consulta para un amigo (16/11/2026), solo para escuchar:** Technics SL-1600 (1976–78, automática, servo sin cuarzo,
+  pitch ±10 %, memo-repeat), ARS 700.000 y necesita service. Sugerido: ofrecer 550–600 mil o comparar con la SL-D3 de
+  Ana, que está restaurada.
 
 ### ¿Tienen que ser iguales? (pregunta de Ana, 02/11/2026)
 
