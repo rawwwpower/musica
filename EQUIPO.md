@@ -144,10 +144,18 @@ Fuentes: foros (Vinyl Engine, Audiokarma, Steve Hoffman), hifi-wiki y avisos. No
 
 ### Referencia: con qué toca Sven Väth (investigado 16/11/2026)
 
-Technics **SL-1200/1210 MK2** desde siempre ("mi herramienta hace 25 años", en frieze) y después la **SL-1210MK7**, que
-lanzó con Technics para los 20 años de Cocoon Ibiza. Toca 100 % vinilo; en su contrato técnico pide un mínimo de **dos
-bandejas de repuesto** (Mixmag). Mixer Allen & Heath Xone:92 / Xone:32 según Equipboard (fotos de usuarios, sin
-confirmar). Toca con la misma bandeja que es el plan de Ana.
+- **Bandejas:** Technics **SL-1200/1210 MK2** desde siempre ("mi herramienta hace 25 años", en frieze); después la
+  **SL-1210MK7**, que lanzó con Technics para los 20 años de Cocoon Ibiza. Toca 100 % vinilo y en su contrato técnico pide
+  un mínimo de **dos bandejas de repuesto** (Mixmag). La foto que vio Ana (Instagram, gira por Brasil, 26/08/2026) era de
+  la casa donde paró, no la suya.
+- **Cápsula:** Ortofon sacó con Cocoon una edición limitada firmada (500 unidades) basada en la **Concorde Nightclub
+  MKII** (DJ Mag, ~2015). Muestra su aval; no hay una fuente de qué púa usa hoy. Es de la misma familia que la Concorde
+  MkII Club del plan de Ana.
+- **Mixer: Allen & Heath Xone:92** (Mixmag; Equipboard dice que también en la residencia Cocoon en Amnesia). Es analógico,
+  con EQ de 4 bandas por canal (corte total en graves y agudos, unos −30 dB en los medios), **dos filtros con resonancia y
+  LFO**, dos envíos aux para efectos externos (no trae efectos internos) y booth aparte. Existe en versión rotary (92R).
+  Frente a los mixers en vista: con el **Pacson** comparte lo analógico, el corte fuerte y los efectos externos; con el
+  **Pioneer**, el filtro. Lo único suyo son los filtros con LFO; le falta el isolator al master del Pacson.
 
 ### ¿Tienen que ser iguales? (pregunta de Ana, 02/11/2026)
 
