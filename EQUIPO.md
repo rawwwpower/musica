@@ -355,5 +355,6 @@ para pinchar.
 
 ## Decisiones / compras
 
+- **Historial de bandejas:** Thorens de entrada, probablemente una **TD 170** con preamp incluido (Ana no lo recuerda seguro) → SL-D3 → SL-1700 MK2 (07/11/2026) → el plan de las SL-1200.
 - **07/11/2026, plan:** la SL-1700 MK2 pasa a ser la principal para escuchar en casa y para meterse en el uso manual. **Vender la SL-D3** y conseguir una **SL-1200 para restaurar** ("para reparar" o sin service, ver "Qué revisar al comprar una usada"). Sin apuro: **paciencia y ojo**.
 - **07/11/2026:** Ana compró una Technics SL-1700 MK2 en muy buen estado (ver "Lo que tiene hoy"). Idea de Ana: usarla en casa y **adaptarla para tocar**: brazo en manual, slipmat de fieltro y cápsula DJ en un headshell aparte (reajustar contrapeso y antiskating al cambiar). Regla: **"manual, fieltro, headshell"**.
