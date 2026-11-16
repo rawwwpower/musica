@@ -142,6 +142,13 @@ Fuentes: foros (Vinyl Engine, Audiokarma, Steve Hoffman), hifi-wiki y avisos. No
 - Peso: ~10 kg. Wow & flutter de 0,025 % WRMS. Masa efectiva del brazo: 16 g o 22 g según la fuente (depende de si cuentan el headshell); con la Pearl anda bien en los dos casos.
 - **Falla típica:** que el brazo no vuelva o el Stop no responda. Suelen ser dos chips CMOS de la placa lógica o la correa del motorcito del brazo. Tiene arreglo.
 
+### Referencia: con qué toca Sven Väth (investigado 16/11/2026)
+
+Technics **SL-1200/1210 MK2** desde siempre ("mi herramienta hace 25 años", en frieze) y después la **SL-1210MK7**, que
+lanzó con Technics para los 20 años de Cocoon Ibiza. Toca 100 % vinilo; en su contrato técnico pide un mínimo de **dos
+bandejas de repuesto** (Mixmag). Mixer Allen & Heath Xone:92 / Xone:32 según Equipboard (fotos de usuarios, sin
+confirmar). Toca con la misma bandeja que es el plan de Ana.
+
 ### ¿Tienen que ser iguales? (pregunta de Ana, 02/11/2026)
 
 No es obligatorio. Ana quiere mezclar con Seba o un amigo, cada uno con su bandeja, y eso se puede. Lo que tiene que
