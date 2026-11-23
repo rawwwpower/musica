@@ -3,6 +3,7 @@
 **musica** es el proyecto de Ana para **hacer** música: el equipo, aprender a mezclar vinilos (DJ), los instrumentos que
 va sumando (hoy, el sampler K.O. II) y los experimentos (nana). Los discos (colección, wishlist, evaluar prensados)
 viven en el repo **deadwax**, no acá. Hablarle a Ana en castellano rioplatense.
+Ana le dice a Claude **Clo**: ese es el nombre de Claude, no el de ella.
 
 ## Rol de Claude (pedido explícito de Ana)
 
