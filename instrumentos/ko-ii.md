@@ -2,6 +2,17 @@
 
 Sampler de Ana (Champ Edition, 64 MB). Uso: samplear temas, discos y pelis desde la Mac y desde la bandeja.
 
+## Retomar acá (23 nov 2026): Clo toca el K.O. en vivo desde la Mac
+
+Ana vio un post de Ale (x.com/gptcrosa, mismo K.O.) donde Claude Code compone una canción y se la manda **nota por nota por
+MIDI/USB** al K.O., que la toca con los sonidos de sus pads; después explica qué escribió y por qué. Ana quería eso **en vivo**
+(cargar samples a mano le resulta tedioso). **Logrado:** en su Mac, app de Claude → **Code** → cuenta **personal** →
+**This computer** → carpeta **Documentos/KO**, con el K.O. enchufado por USB-C. Ahí le pegó un pedido (ser Clo, ver que la Mac
+detecte el EP-133, averiguar canal MIDI por grupo y nota por pad, tocar una canción con la caja A y B6, y explicarla) y
+**anduvo**. Siguió trabajando en esa sesión local: lo que haya aprendido ahí no está en este repo. Abierto: preguntarle qué
+canales y notas quedaron mapeados y qué canción salió, y anotarlo acá. Esta sesión en la nube no llega al USB: para lo en vivo,
+usar la sesión de la Mac (o conectarla con Remote Control, todavía no configurado).
+
 ## Retomar acá (04 nov 2026, cierre): B6 en loop como base
 
 Ana logró su objetivo del día: **B6 sonando en loop con el secuenciador** (RECORD + PLAY, esperar que el número se mueva, pad 6)
